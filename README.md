@@ -5,7 +5,11 @@
 <p align="center">
 Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.
 <br>
+        <a href="https://chat.whatsapp.com/EiAMgRvran32kP9oChu5tb">Whatsapp Group</a> |
 
+        <a href="https://youtube.com/channel/UCRt-7UDMMcfjunuZwZi481Q">Youtube Channel</a>
+
+    <br>
 
 
 
