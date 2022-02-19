@@ -10,7 +10,9 @@
 <h1>INSTALL BLACKPANDA BOT</h1> 
 
 ### QR CODE
-<a href="https://chat.whatsapp.com/EiAMgRvran32kP9oChu5tb"><img src="https://i.ibb.co/Mp6SHjG/Whats-App-logo.png" alt="WhatsApp_logo" border="0"></a>
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@BlackAmda/Queen-Amdi-QR-Code)
+
+
       
 ### Deploy To Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/botkolla1/Black_Panda)
