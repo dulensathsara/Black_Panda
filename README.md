@@ -13,5 +13,5 @@
 <a href="https://youtube.com/channel/UCRt-7UDMMcfjunuZwZi481Q">CLICK HERE</a>
   <br>
 <h1>our group<h1>
-<i class="fa-regular fa-alien-8bit"></i>
+<a herf="fa-regular fa-alien-8bit"></a>
 
