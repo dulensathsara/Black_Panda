@@ -10,5 +10,5 @@
         <a href="https://youtube.com/channel/UCRt-7UDMMcfjunuZwZi481Q">Youtube Channel</a>
     <br>
 </div>
-<h1>INFORMATION</h1>
-
+<h1>OUR BOT GROUP</h1>
+<a href="https://chat.whatsapp.com/EiAMgRvran32kP9oChu5tb">CLICK</a>
