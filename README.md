@@ -17,5 +17,6 @@
 <p>Black panda is Speed bot for whatspp but still under the developing<p>
 
 
+<div aline='left'><h2> BLACK PANDA TEAM </h2></div>
 
 
