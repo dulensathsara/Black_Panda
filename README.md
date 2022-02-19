@@ -14,4 +14,4 @@
   <br>
 <h1>our group<h1>
 <a herf="fa-regular fa-alien-8bit"></a>
-
+<font-awesome-icon icon="fa-duotone fa-alien" />
