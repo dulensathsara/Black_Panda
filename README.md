@@ -8,7 +8,7 @@
       <br>
      </div> 
 <h1>MY BOT GROUP</h1>
-<a href="https://i.ibb.co/Mp6SHjG/Whats-App-logo.png" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Mp6SHjG/Whats-App-logo.png" alt="WhatsApp_logo" border="0"></a>
       
 <h1>MY YOUTUBE CHANNEL</h1>
 <a href="https://youtube.com/channel/UCRt-7UDMMcfjunuZwZi481Q"><img src="https://i.ibb.co/7kz3Mz7/You-Tube-Logo.png" alt="YouTube-Logo" border="0"></a>
