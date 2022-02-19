@@ -7,9 +7,9 @@
       This is Black Panda WhatsApp Bot🐼.
       <br>
      </div> 
-<h1>OUR BOT GROUP</h1>
+<h1>MY BOT GROUP</h1>
 <a href="https://chat.whatsapp.com/EiAMgRvran32kP9oChu5tb">CLICK HERE</a>
-<h1>OUR YOUTUBE CHANNEL</h1>
+<h1>MY YOUTUBE CHANNEL</h1>
 <a href="https://youtube.com/channel/UCRt-7UDMMcfjunuZwZi481Q">CLICK HERE</a>
   <br>
  
