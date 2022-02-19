@@ -9,14 +9,14 @@
       <a href="https://chat.whatsapp.com/EiAMgRvran32kP9oChu5tb">Whatsapp Group</a> |
       <a href="https://youtube.com/channel/UCRt-7UDMMcfjunuZwZi481Q">Youtube Channel</a>
   <br>
- <pr>
+ 
 
 
     
 <h1>INSTALL BLACKPANDA BOT</h1> 
 
 ### QR CODE
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@BlackAmda/Queen-Amdi-QR-Code)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)]()
 
 
       
