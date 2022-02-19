@@ -11,4 +11,4 @@
     <br>
 </div>
 <h1>INFORMATION</h1>
-<img src="ezgif.com-gif-maker.mp4">
+
