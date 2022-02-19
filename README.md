@@ -5,7 +5,8 @@
 </div>
 <p align="center">
       This is Black Panda WhatsApp Bot🐼.
-
+        <a href="https://chat.whatsapp.com/EiAMgRvran32kP9oChu5tb">Whatsapp Group</a> |
+        <a href="https://youtube.com/channel/UCRt-7UDMMcfjunuZwZi481Q">Youtube Channel</a>
     
 <h1>INSTALL BLACKPANDA BOT</h1> 
 
