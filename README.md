@@ -13,7 +13,7 @@
 <a href="https://chat.whatsapp.com/EiAMgRvran32kP9oChu5tb"><img src="https://i.ibb.co/Mp6SHjG/Whats-App-logo.png" alt="WhatsApp_logo" border="0"></a>
       
 <h1>Deploy To Heroku</h1>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/FqwC8F6/Heroku8748.jpg" alt="Heroku8748" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload images online</a><br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/FqwC8F6/Heroku8748.jpg" alt="Heroku8748" border="0"></a><br /><a 
   </div>
 
 <div aline='left'><h2> BLACK PANDA TEAM </h2></div>
