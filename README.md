@@ -8,11 +8,11 @@
       <br>
      </div> 
 <h1>MY BOT GROUP</h1>
-<a href="https://chat.whatsapp.com/EiAMgRvran32kP9oChu5tb"><img src="https://i.ibb.co/Fsp16Y1/5ae21cc526c97415d3213554.png" alt="5ae21cc526c97415d3213554" border="2"></a>
+<a href="https://chat.whatsapp.com/EiAMgRvran32kP9oChu5tb"><img src="https://i.ibb.co/9npN7pq/Whats-App-logo.png" alt="Whats-App-logo" border="0"></a>
       
 <h1>MY YOUTUBE CHANNEL</h1>
 <a href="https://youtube.com/channel/UCRt-7UDMMcfjunuZwZi481Q">CLICK HERE</a>
   <br>
-<h1>our group<h1>
+
 
 
