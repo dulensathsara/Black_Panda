@@ -13,8 +13,10 @@
 <a href="https://chat.whatsapp.com/EiAMgRvran32kP9oChu5tb"><img src="https://i.ibb.co/Mp6SHjG/Whats-App-logo.png" alt="WhatsApp_logo" border="0"></a>
       
 ### Deploy To Heroku
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/FqwC8F6/Heroku8748.jpg" alt="Heroku8748" border="0"></a><br /><a 
- </div>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/BlackAmda/QueenAmdi-v3)
+
+</div>
+
 
 <div aline='left'><h2> BLACK PANDA TEAM </h2></div>
 
