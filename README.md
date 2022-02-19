@@ -12,8 +12,7 @@
       
 <h1>MY YOUTUBE CHANNEL</h1>
 <a href="https://youtube.com/channel/UCRt-7UDMMcfjunuZwZi481Q"><img src="https://i.ibb.co/84kkG1Z/You-Tube-Logo.png" alt="YouTube-Logo" border="0"></a>
-  <br>
-
+  </div>
 
 <div aline='left'><h2> BLACK PANDA TEAM </h2></div>
 
