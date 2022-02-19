@@ -18,7 +18,7 @@
 
 <div aline='left'><h2> BLACK PANDA TEAM </h2></div>
 
-<table><tr><th> DINETH SHEWON</th><th>RAVEESHA</th></tr><tr><td><a href="https://www.youtube.com/channel/UCRt-7UDMMcfjunuZwZi481Q"><img src="https://i.ibb.co/3spMBT9/IMG-20210417-173918.jpg"></a></td><td><a href="https://www.youtube.com/channel/UCRt-7UDMMcfjunuZwZi481Q"><img src="https://i.ibb.co/ccJYKrG/Ephoto360-com-16210ad4ab964b.jpg"></a></td></tr><tr><td> Developer & Owner</td><td>Ideas & Group manegment
+<table><tr><th> DINETH SHEWON</th><th>RAVEESHA</th></tr><tr><td><a href="https://www.youtube.com/channel/UCRt-7UDMMcfjunuZwZi481Q"><img src="https://i.ibb.co/3spMBT9/IMG-20210417-173918.jpg"></a></td><td><a href="https://www.youtube.com/channel/UCRt-7UDMMcfjunuZwZi481Q"><img src="https://i.ibb.co/FHFSxcP/IMG-20220219-WA0042.jpg"></a></td></tr><tr><td> Developer & Owner</td><td>Ideas & Group manegment
             
 
 
