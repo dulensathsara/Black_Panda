@@ -5,7 +5,7 @@
 </div>
 <p align="center">
       This is Black Panda WhatsApp Bot🐼.
-      <br>
+      
       
  <div align="center">  
 <h1>INSTALL BLACKPANDA BOT<h1>
