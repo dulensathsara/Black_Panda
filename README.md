@@ -11,4 +11,4 @@
     <br>
 </div>
 <h1>INFORMATION</h1>
-<img src="https://giphy.com/gifs/kiss-panda-NvfIgh0SqxC4o.gif">
+
