@@ -7,6 +7,7 @@
       This is Black Panda WhatsApp Bot🐼.
       <br>
      </div> 
+<h1>INSTALL BLACKPANDA BOT<h1>
 <h1>QR CODE</h1>
 <a href="https://chat.whatsapp.com/EiAMgRvran32kP9oChu5tb"><img src="https://i.ibb.co/Mp6SHjG/Whats-App-logo.png" alt="WhatsApp_logo" border="0"></a>
       
