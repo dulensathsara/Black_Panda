@@ -8,7 +8,7 @@
 
 <div align="center">    
       <h1>INSTALL BLACKPANDA BOT<h1> 
-
+----
 ### QR CODE
 <a href="https://chat.whatsapp.com/EiAMgRvran32kP9oChu5tb"><img src="https://i.ibb.co/Mp6SHjG/Whats-App-logo.png" alt="WhatsApp_logo" border="0"></a>
       
