@@ -9,10 +9,10 @@
     
 <h1>INSTALL BLACKPANDA BOT</h1> 
 
-<h1>QR CODE</h1>
+### QR CODE
 <a href="https://chat.whatsapp.com/EiAMgRvran32kP9oChu5tb"><img src="https://i.ibb.co/Mp6SHjG/Whats-App-logo.png" alt="WhatsApp_logo" border="0"></a>
       
-<h1>Deploy To Heroku</h1>
+### Deploy To Heroku
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/FqwC8F6/Heroku8748.jpg" alt="Heroku8748" border="0"></a><br /><a 
   </div>
 
