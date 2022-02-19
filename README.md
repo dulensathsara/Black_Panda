@@ -8,10 +8,10 @@
       <br>
      </div> 
 <h1>MY BOT GROUP</h1>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/Mp6SHjG/Whats-App-logo.png" alt="WhatsApp_logo" border="0"></a>
+<a href="https://chat.whatsapp.com/EiAMgRvran32kP9oChu5tb"><img src="https://i.ibb.co/Mp6SHjG/Whats-App-logo.png" alt="WhatsApp_logo" border="0"></a>
       
 <h1>MY YOUTUBE CHANNEL</h1>
-<a href="https://youtube.com/channel/UCRt-7UDMMcfjunuZwZi481Q"><img src="https://i.ibb.co/7kz3Mz7/You-Tube-Logo.png" alt="YouTube-Logo" border="0"></a>
+<a href="https://youtube.com/channel/UCRt-7UDMMcfjunuZwZi481Q"><img src="https://i.ibb.co/84kkG1Z/You-Tube-Logo.png" alt="YouTube-Logo" border="0"></a>
   <br>
 <h1> INFORMATION <h1>
 <p>Black panda is Speed bot for whatspp but still under the developing<p>
