@@ -12,7 +12,7 @@
 <h1>QR CODE</h1>
 <a href="https://chat.whatsapp.com/EiAMgRvran32kP9oChu5tb"><img src="https://i.ibb.co/Mp6SHjG/Whats-App-logo.png" alt="WhatsApp_logo" border="0"></a>
       
-<h1>Deploy BlackPanda Bot</h1>
+<h1>Deploy To Heroku</h1>
 <a href="https://youtube.com/channel/UCRt-7UDMMcfjunuZwZi481Q"><img src="https://i.ibb.co/84kkG1Z/You-Tube-Logo.png" alt="YouTube-Logo" border="0"></a>
   </div>
 
