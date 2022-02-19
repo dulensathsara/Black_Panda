@@ -14,7 +14,11 @@
 <a href="https://youtube.com/channel/UCRt-7UDMMcfjunuZwZi481Q"><img src="https://i.ibb.co/7kz3Mz7/You-Tube-Logo.png" alt="YouTube-Logo" border="0"></a>
   <br>
 <h1> INFORMATION <h1>
-<h1 style="color:Tomato;">hy</h1>
+<h1 style="color:Tomato;">Hello World</h1>
+
+<p style="color:DodgerBlue;">Lorem ipsum...</p>
+
+<p style="color:MediumSeaGreen;">Ut wisi enim...</p>
 
 
 
