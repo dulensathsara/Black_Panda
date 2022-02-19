@@ -11,3 +11,4 @@
     <br>
 </div>
 <h1>INFORMATION</h1>
+<img srcsrc="https://giphy.com/gifs/kiss-panda-NvfIgh0SqxC4o">
