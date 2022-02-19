@@ -14,7 +14,7 @@
       
 ### Deploy To Heroku
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/FqwC8F6/Heroku8748.jpg" alt="Heroku8748" border="0"></a><br /><a 
-  </div>
+ </div>
 
 <div aline='left'><h2> BLACK PANDA TEAM </h2></div>
 
