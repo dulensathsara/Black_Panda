@@ -1,9 +1,9 @@
-/* Copyright (C) 2020 BlackKingdoms.
+/* Copyright (C) 2020 Blackpanda.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-BlackKingdom - BlackKingdoms
+BlackKPanda - BlackPanda
 */
 
 const { Sequelize } = require('sequelize');
@@ -20,7 +20,7 @@ DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBU
 
 module.exports = {
     VERSION: 'v0.16.8 Public Stable',
-    SESSION: process.env.BLACKKINGDOM_SESSION === undefined ? '' : process.env.BLACKKINGDOM_SESSION,
+    SESSION: process.env.BLACKPANDA_SESSION === undefined ? '' : process.env.BLACKKINGDOM_SESSION,
     ANTILINK: process.env.ANTI_LINK === undefined ? 'true' : process.env.ANTI_LINK,
     INBO: process.env.INBO_BLOCK === undefined ? 'false' : process.env.INBO_BLOCK,
     Bad_Word: process.env.BAD_KICK === undefined ? 'true' : process.env.BAD_KICK,
@@ -50,12 +50,10 @@ module.exports = {
     RBG_API_KEY: process.env.REMOVE_BG_API_KEY === undefined ? false : process.env.REMOVE_BG_API_KEY,
     NO_ONLINE: process.env.NO_ONLINE === undefined ? true : convertToBool(process.env.NO_ONLINE),
     SUDO: process.env.SUDO === undefined ? false : process.env.SUDO,
-    OWN: process.env.OWN === undefined ? '94752279625,0' : process.env.OWN,
-    OWN2: process.env.OWN2 === undefined ? '94740149500,0' : process.env.OWN2,
-    OWN3: process.env.OWN3 === undefined ? '94763459864,0' : process.env.OWN3,
-    OWN4: process.env.OWN4 === undefined ? '94766250499,0' : process.env.OWN4,
-    OWN5: process.env.OWN5 === undefined ? '94770029091,0' : process.env.OWN5,
-    OWN6: process.env.OWN6 === undefined ? '94711176747,0' : process.env.OWN6,
+    OWN: process.env.OWN === undefined ? '94784997828,0' : process.env.OWN,
+    OWN2: process.env.OWN2 === undefined ? '94756024770,0' : process.env.OWN2,
+    
+  
     DEBUG: DEBUG,
     COFFEEHOUSE_API_KEY: process.env.COFFEEHOUSE_API_KEY === undefined ? false : process.env.COFFEEHOUSE_API_KEY,
     WITAI_API: "TEYMELA6DMC4XB5YM3SPTTQWUUIBKURG"
