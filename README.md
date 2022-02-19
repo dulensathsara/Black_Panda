@@ -18,4 +18,4 @@
 
 <div aline='left'><h2> BLACK PANDA TEAM </h2></div>
 
-<table><tr><th> DINETH SHEWON</th><th>RAVEESHA</th></tr><tr><td><a href="https://github.com/ravindu01manoj"><img src="https://i.ibb.co/ccJYKrG/Ephoto360-com-16210ad4ab964b.jpg"></a></td><td><a href="https://github.com/ravindu01manoj"><img src="https://i.ibb.co/ccJYKrG/Ephoto360-com-16210ad4ab964b.jpg"></a></td></tr><tr><td> Develper & Owner</td><td>Ideas & Group manegment
+<table><tr><th> DINETH SHEWON</th><th>RAVEESHA</th></tr><tr><td><a href="https://github.com/ravindu01manoj"><img src="https://i.ibb.co/ccJYKrG/Ephoto360-com-16210ad4ab964b.jpg"></a></td><td><a href="https://github.com/ravindu01manoj"><img src="https://i.ibb.co/ccJYKrG/Ephoto360-com-16210ad4ab964b.jpg"></a></td></tr><tr><td> Developer & Owner</td><td>Ideas & Group manegment
