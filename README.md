@@ -10,7 +10,7 @@
         <a href="https://youtube.com/channel/UCRt-7UDMMcfjunuZwZi481Q">Youtube Channel</a>
     <br>
 </div>
-<h1>Information</h1>
+<h1>INFORMATION</h1>
    
 
 
