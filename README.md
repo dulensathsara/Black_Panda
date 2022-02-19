@@ -16,10 +16,10 @@
 <h1> INFORMATION <h1>
 <p>Black panda is Speed bot for whatspp but still under the developing<p>
 
+<div aline='left'><h2> BLACK PANDA TEAM</h2></div>
 
 
-
-
+<table><tr><th> SHEWON</th><th>RAVEESHA</th></tr><tr><td><a href="https://github.com/ravindu01manoj">
 
 
 
