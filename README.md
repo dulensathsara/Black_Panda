@@ -16,7 +16,7 @@
 
 
     
-<h1>INSTALL BLACKPANDA BOT</h1> 
+<h1>🐼INSTALL BLACK PANDA BOT🐼</h1> 
 
 ### QR CODE
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)]()
