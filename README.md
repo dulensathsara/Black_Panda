@@ -7,7 +7,7 @@
  
     
 
-[![Youtube](https://img.shields.io/badge/SL_Shewon%20@_Shewa_Creations%20YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)]
+[![Youtube](https://img.shields.io/badge/SL_Shewon%20@_Shewa_Creations%20YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)] (https://youtube.com/channel/UCRt-7UDMMcfjunuZwZi481Q) 
   
  <br>
 
