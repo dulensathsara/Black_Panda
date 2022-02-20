@@ -4,7 +4,7 @@
 <h1>❤️🐼BLACK PANDA 🐼❤️</h1>
 </div>
 <p align="center">
-      Black Panda is speed and powerful bot for whatsApp🐼
+      Black Panda is Speed And Powerful Bot For WhatsApp🐼
  <br>
     <a href="https://chat.whatsapp.com/EiAMgRvran32kP9oChu5tb">Whatsapp Group</a> |
     <a href="https://youtube.com/channel/UCRt-7UDMMcfjunuZwZi481Q">Youtube Channel</a>
