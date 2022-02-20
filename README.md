@@ -24,7 +24,7 @@
 
  <br>
 
-
+<div align="center">
     
 <h1>🐼INSTALL BLACK PANDA BOT🐼</h1> 
 
