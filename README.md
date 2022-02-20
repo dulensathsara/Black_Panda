@@ -5,7 +5,7 @@
 </div>
 <p align="center">
     This is Black Panda WhatsApp Bot🐼. 
-    <br>
+    </div>
 [![Youtube](https://youtube.com/channel/UCRt-7UDMMcfjunuZwZi481Q) 
 
   
