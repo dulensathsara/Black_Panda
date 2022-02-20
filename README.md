@@ -6,8 +6,8 @@
 <p align="center">
     This is Black Panda WhatsApp Bot🐼. 
     </div>
-[![Youtube](https://youtube.com/channel/UCRt-7UDMMcfjunuZwZi481Q) 
 
+[![Youtube](https://img.shields.io/badge/SL_Adesha%20@_Dilipa_Creations%20YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)]
   
  <br>
 
