@@ -29,7 +29,7 @@
 <h1>🐼INSTALL BLACK PANDA BOT🐼</h1> 
 
 ### QR CODE
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@sewboy/BLACK-PANDA-QR-Code?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@sewboy/Black-Panda-QR-Code?v=1)
 
 
       
