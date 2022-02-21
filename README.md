@@ -34,7 +34,7 @@
 
       
 ### Deploy Your Black Panda Bot To Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/botkolla1/Black_Panda.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/botkolla1/Black_Panda.git)
 
 </div>
 <br>
