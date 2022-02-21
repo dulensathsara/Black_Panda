@@ -17,7 +17,7 @@ async function whatsAsena() {
 
 	conn.on('connecting', async () => {
 		console.log(`${chalk.green.bold('BLACK')}${chalk.blue.bold('PANDA')}
-${chalk.white.italic('BLACKPANDA  Strings')}
+${chalk.white.italic('BLACKPANDA Strings')}
 ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please wait.')}`);
 	});
 
