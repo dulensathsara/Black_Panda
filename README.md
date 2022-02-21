@@ -9,8 +9,10 @@
 
   
 <div align="center">
-<h1>❤️🐼BLACK PANDA 🐼❤️</h1>
-</div>
+  
+[![Typing SVG](https://tinyurl.com/ybq64uoh)](https://git.io/typing-svg)
+
+  </div>
   
 <p align="center">
   Black Panda is Speed And Powerful Bot For WhatsApp🐼
